@@ -2,6 +2,8 @@
 
 ## Spring Security Arcitecture
 
+![spring security arch diagram](https://user-images.githubusercontent.com/9671419/87234340-87b9fd00-c3ed-11ea-9b5c-19658775d089.JPG)
+
 User Login :  http://localhost:8080/user
 
 ![userlogin](https://user-images.githubusercontent.com/9671419/87234275-095d5b00-c3ed-11ea-99f0-ad58b8daa750.PNG)
